@@ -1,3 +1,6 @@
+
+![Screenshot 2023-10-10 at 11 56 35 PM](https://github.com/gaddys10/Home-Site/assets/6856144/7380d777-e1e8-46a5-a273-971c53b25a9b)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
